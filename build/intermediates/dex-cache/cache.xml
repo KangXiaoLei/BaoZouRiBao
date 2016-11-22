@@ -1,0 +1,833 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\aaa\BaoZouRiBao\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="E:\aaa\BaoZouRiBao\app\build\intermediates\pre-dexed\debug\de.hdodenhof-circleimageview-2.1.0_26db4c0119b8daa2ba204fa3804a15626b373334.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\MyAndroid\TestZuoYe1\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\MyAndroid\TestZuoYe1\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.0_62872de9b703af56c104c0c8bae086815df838a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\aaa\BaoZouRiBao\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\aaa\BaoZouRiBao\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.0_579013b2aa978fc8f4840511fd455468aa5f0f4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\aaa\BaoZouRiBao\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="E:\aaa\BaoZouRiBao\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_05749c1f1cad6b9ec45420f9da7587ee56ff9c6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\aaa\BaoZouRiBao\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="E:\aaa\BaoZouRiBao\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_4aa3d6fb4fe3906245f0dcc2ced35b68a03d3df9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\aaa\BaoZouRiBao\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="E:\aaa\BaoZouRiBao\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.0_f3f4c5a81b0113cb7c97bab5d12cdb655ae73a2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\MyAndroid\TestZuoYe1\app\build\intermediates\exploded-aar\com.jaeger.statusbaruitl\library\1.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b96d6d7956cdb8bc6c37d27f70e1c53806e7ec3">
+        <dex dex="E:\MyAndroid\TestZuoYe1\app\build\intermediates\pre-dexed\debug\com.jaeger.statusbaruitl-library-1.3.0_4a98b51ca278d0a6452afbc7dc7a18ca95cb1262.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\MyAndroid\TestZuoYe1\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="E:\MyAndroid\TestZuoYe1\app\build\intermediates\pre-dexed\debug\de.hdodenhof-circleimageview-2.1.0_a0f662055ce06b109499f06ddd97af3dd2559187.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\MyAndroid\TestZuoYe1\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b7105277df9a8013468215c451ddefac2499d3a">
+        <dex dex="E:\MyAndroid\TestZuoYe1\app\build\intermediates\pre-dexed\debug\com.android.support-palette-v7-24.2.1_1bc5fdb251d16856f83da949eaddfe5d1144b092.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\aaa\BaoZouRiBao\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="E:\aaa\BaoZouRiBao\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.0_06d988b8c787292811d52ccc807ecc39f300a30f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\MyAndroid\TestZuoYe1\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="E:\MyAndroid\TestZuoYe1\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.0_b4553d002562e35cf2a18bd32da4ace2b182d241.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\aaa\BaoZouRiBao\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="E:\aaa\BaoZouRiBao\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.0.0_92008d412e883758d66087a0f13db847ecc7c137.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\aaa\BaoZouRiBao\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="356f45d074228d286b31d80a3f5d22399717d677">
+        <dex dex="E:\aaa\BaoZouRiBao\app\build\intermediates\pre-dexed\debug\instant-run_672569ffb96e4765d1d99ee6406e8a34c108f4d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\aaa\BaoZouRiBao\app\build\intermediates\exploded-aar\com.jaeger.statusbaruitl\library\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b96d6d7956cdb8bc6c37d27f70e1c53806e7ec3">
+        <dex dex="E:\aaa\BaoZouRiBao\app\build\intermediates\pre-dexed\debug\com.jaeger.statusbaruitl-library-1.3.0_2ddac3f207efe8ee5cebe0db2b852d417057d04f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\MyAndroid\TestZuoYe1\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="E:\MyAndroid\TestZuoYe1\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_294a9ed25f3083b6187506f9c93785eabd411810.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\MyAndroid\TestZuoYe1\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="E:\MyAndroid\TestZuoYe1\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_81215c45dff7cd52a3a6606afda928346910baaf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\aaa\BaoZouRiBao\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="E:\aaa\BaoZouRiBao\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_84df4b7f8e6152a1a6eea032948361e1e54ab28e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\MyAndroid\TestZuoYe1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="E:\MyAndroid\TestZuoYe1\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.0_9a57b5e02dc91ccddb61fcaacd296dc9235f91ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\MyAndroid\TestZuoYe1\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="E:\MyAndroid\TestZuoYe1\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.0.0_3ef905f1b8e5d98811b3611e2e849e9ff1a2f215.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\aaa\BaoZouRiBao\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="E:\aaa\BaoZouRiBao\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.0_b25a7d3fed20a4ca06cd066f6e30729da961dfc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\MyAndroid\TestZuoYe1\app\build\intermediates\exploded-aar\com.android.support\design\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="E:\MyAndroid\TestZuoYe1\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.0.0_4df81db83423e222742b75b64590a4588f705638.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\MyAndroid\TestZuoYe1\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="E:\MyAndroid\TestZuoYe1\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_8eb8748583c95768623e69245d32ec82788ccd70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\aaa\BaoZouRiBao\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="E:\aaa\BaoZouRiBao\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_bc86b4377f70206fdaa0e00b0d568ca14c953063.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\aaa\BaoZouRiBao\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="E:\aaa\BaoZouRiBao\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.0_f3f4c5a81b0113cb7c97bab5d12cdb655ae73a2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\aaa\BaoZouRiBao\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="E:\aaa\BaoZouRiBao\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_4aa3d6fb4fe3906245f0dcc2ced35b68a03d3df9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\aaa\BaoZouRiBao\app\build\intermediates\exploded-aar\com.android.support\design\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="E:\aaa\BaoZouRiBao\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.0.0_a80f286b93206485003f6fd2f5f281d9de61be2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\aaa\BaoZouRiBao\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="E:\aaa\BaoZouRiBao\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.0.0_af7b8b09fc888ab65a33978b9930ed29167059d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\aaa\BaoZouRiBao\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="E:\aaa\BaoZouRiBao\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.0_f9edd927c50469515789fdd03075222fb469c87a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\aaa\BaoZouRiBao\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="E:\aaa\BaoZouRiBao\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.0_4e2047b9ce94a045af32a12d0fc4dc348c51723b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\MyAndroid\TestZuoYe1\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="E:\MyAndroid\TestZuoYe1\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_266cf6c00b750bfdb6bce76449d283b308bdd3fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\aaa\BaoZouRiBao\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="E:\aaa\BaoZouRiBao\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.0_b25a7d3fed20a4ca06cd066f6e30729da961dfc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\aaa\BaoZouRiBao\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="E:\aaa\BaoZouRiBao\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.0.0_92008d412e883758d66087a0f13db847ecc7c137.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\k\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="E:\MyAndroid\TestZuoYe1\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.0_bb2ff043782893fde3aa0c5682d9be1209735322.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\k\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="E:\MyAndroid\TestZuoYe1\app\build\intermediates\pre-dexed\debug\glide-3.7.0_b7bfc68fe128be34d4212ecd0883ef26f04ab424.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\aaa\BaoZouRiBao\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="E:\aaa\BaoZouRiBao\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_05749c1f1cad6b9ec45420f9da7587ee56ff9c6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\MyAndroid\TestZuoYe1\app\build\intermediates\exploded-aar\com.jaeger.statusbaruitl\library\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b96d6d7956cdb8bc6c37d27f70e1c53806e7ec3">
+        <dex dex="E:\MyAndroid\TestZuoYe1\app\build\intermediates\pre-dexed\debug\com.jaeger.statusbaruitl-library-1.3.0_4a98b51ca278d0a6452afbc7dc7a18ca95cb1262.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\MyAndroid\TestZuoYe1\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="E:\MyAndroid\TestZuoYe1\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_f8addc420c4a7abbf7cf3891cac7d89ba4df54fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\aaa\BaoZouRiBao\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="E:\aaa\BaoZouRiBao\app\build\intermediates\pre-dexed\debug\de.hdodenhof-circleimageview-2.1.0_26db4c0119b8daa2ba204fa3804a15626b373334.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\aaa\BaoZouRiBao\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\aaa\BaoZouRiBao\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.0_579013b2aa978fc8f4840511fd455468aa5f0f4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\MyAndroid\TestZuoYe1\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\MyAndroid\TestZuoYe1\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.0_62872de9b703af56c104c0c8bae086815df838a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\MyAndroid\TestZuoYe1\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="E:\MyAndroid\TestZuoYe1\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_81215c45dff7cd52a3a6606afda928346910baaf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\MyAndroid\TestZuoYe1\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="E:\MyAndroid\TestZuoYe1\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.0_b0c7c4001159851941f1ffe203f6dfdc0621672a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\aaa\BaoZouRiBao\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="E:\aaa\BaoZouRiBao\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.0_ba81f409df35be03ecb39cbe43f76fa24398dd66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\MyAndroid\TestZuoYe1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="E:\MyAndroid\TestZuoYe1\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.0_9a57b5e02dc91ccddb61fcaacd296dc9235f91ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\MyAndroid\TestZuoYe1\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="E:\MyAndroid\TestZuoYe1\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_f8addc420c4a7abbf7cf3891cac7d89ba4df54fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\MyAndroid\TestZuoYe1\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="E:\MyAndroid\TestZuoYe1\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.0_5d4090cf379b594d6684c58e6d572c7439112e53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\MyAndroid\TestZuoYe1\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="E:\MyAndroid\TestZuoYe1\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.0_3c08776af178230030d20257d313c6ade9370e14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="E:\MyAndroid\TestZuoYe1\app\build\intermediates\pre-dexed\debug\gson-2.2.4_313aff129984a0a45e086871ec03bfcc02e7284e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\aaa\BaoZouRiBao\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="E:\aaa\BaoZouRiBao\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.0_f9edd927c50469515789fdd03075222fb469c87a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\MyAndroid\TestZuoYe1\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="E:\MyAndroid\TestZuoYe1\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.0.0_a7817544ef8b9fbc03648d521e29dfaead438b39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\aaa\BaoZouRiBao\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="E:\aaa\BaoZouRiBao\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.0.0_af7b8b09fc888ab65a33978b9930ed29167059d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\aaa\BaoZouRiBao\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b7105277df9a8013468215c451ddefac2499d3a">
+        <dex dex="E:\aaa\BaoZouRiBao\app\build\intermediates\pre-dexed\debug\com.android.support-palette-v7-24.2.1_1b4375a465a5cacac74066dea3495dbe8fd234bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\aaa\BaoZouRiBao\app\build\intermediates\exploded-aar\com.android.support\design\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="E:\aaa\BaoZouRiBao\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.0.0_a80f286b93206485003f6fd2f5f281d9de61be2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\aaa\BaoZouRiBao\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="E:\aaa\BaoZouRiBao\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.0_4e2047b9ce94a045af32a12d0fc4dc348c51723b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\k\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="E:\MyAndroid\TestZuoYe1\app\build\intermediates\pre-dexed\debug\glide-3.7.0_b7bfc68fe128be34d4212ecd0883ef26f04ab424.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\MyAndroid\TestZuoYe1\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="E:\MyAndroid\TestZuoYe1\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_266cf6c00b750bfdb6bce76449d283b308bdd3fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\MyAndroid\TestZuoYe1\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="E:\MyAndroid\TestZuoYe1\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.0_9b1c9f2b06428c21404f856f5439fdabe71663cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\k\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="E:\MyAndroid\TestZuoYe1\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.0_bb2ff043782893fde3aa0c5682d9be1209735322.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\MyAndroid\TestZuoYe1\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="E:\MyAndroid\TestZuoYe1\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.0_b0c7c4001159851941f1ffe203f6dfdc0621672a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\aaa\BaoZouRiBao\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="E:\aaa\BaoZouRiBao\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.0_ba81f409df35be03ecb39cbe43f76fa24398dd66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\aaa\BaoZouRiBao\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="E:\aaa\BaoZouRiBao\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_60906618701fd1f7fc06282ed6ca9097ff5c3672.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\MyAndroid\TestZuoYe1\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="E:\MyAndroid\TestZuoYe1\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.0.0_20e07f8894363a2ae48d9ca1f6df0f32d95345a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\MyAndroid\TestZuoYe1\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="E:\MyAndroid\TestZuoYe1\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.0_3c08776af178230030d20257d313c6ade9370e14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\aaa\BaoZouRiBao\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="E:\aaa\BaoZouRiBao\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.0_8cbb55667ab717cef8d5eceed9c0b67858ae59af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\aaa\BaoZouRiBao\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="E:\aaa\BaoZouRiBao\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.0_e6d55dde512ca1103b8ab85b139d0314ee45cbad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\aaa\BaoZouRiBao\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="E:\aaa\BaoZouRiBao\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.0.0_d30507224d993a481b39cbee5583ceadfbfa6814.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\MyAndroid\TestZuoYe1\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="E:\MyAndroid\TestZuoYe1\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.0_9b1c9f2b06428c21404f856f5439fdabe71663cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\MyAndroid\TestZuoYe1\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="E:\MyAndroid\TestZuoYe1\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.0_b4553d002562e35cf2a18bd32da4ace2b182d241.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\MyAndroid\TestZuoYe1\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="E:\MyAndroid\TestZuoYe1\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.0.0_a7817544ef8b9fbc03648d521e29dfaead438b39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\MyAndroid\TestZuoYe1\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b7105277df9a8013468215c451ddefac2499d3a">
+        <dex dex="E:\MyAndroid\TestZuoYe1\app\build\intermediates\pre-dexed\debug\com.android.support-palette-v7-24.2.1_1bc5fdb251d16856f83da949eaddfe5d1144b092.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\aaa\BaoZouRiBao\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b7105277df9a8013468215c451ddefac2499d3a">
+        <dex dex="E:\aaa\BaoZouRiBao\app\build\intermediates\pre-dexed\debug\com.android.support-palette-v7-24.2.1_1b4375a465a5cacac74066dea3495dbe8fd234bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="E:\MyAndroid\TestZuoYe1\app\build\intermediates\pre-dexed\debug\gson-2.2.4_313aff129984a0a45e086871ec03bfcc02e7284e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\MyAndroid\TestZuoYe1\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="E:\MyAndroid\TestZuoYe1\app\build\intermediates\pre-dexed\debug\de.hdodenhof-circleimageview-2.1.0_a0f662055ce06b109499f06ddd97af3dd2559187.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\MyAndroid\TestZuoYe1\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="E:\MyAndroid\TestZuoYe1\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.0_9e6357484cfacc9b60d9c505eb2eaae9021cf82d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\MyAndroid\TestZuoYe1\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="E:\MyAndroid\TestZuoYe1\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.0_5d4090cf379b594d6684c58e6d572c7439112e53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\aaa\BaoZouRiBao\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="E:\aaa\BaoZouRiBao\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.0_06d988b8c787292811d52ccc807ecc39f300a30f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\MyAndroid\TestZuoYe1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="E:\MyAndroid\TestZuoYe1\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.0_8cb31c54c7ac78a0e723ccebbae5e3696e15dd9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\aaa\BaoZouRiBao\app\build\intermediates\exploded-aar\com.jaeger.statusbaruitl\library\1.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b96d6d7956cdb8bc6c37d27f70e1c53806e7ec3">
+        <dex dex="E:\aaa\BaoZouRiBao\app\build\intermediates\pre-dexed\debug\com.jaeger.statusbaruitl-library-1.3.0_2ddac3f207efe8ee5cebe0db2b852d417057d04f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\MyAndroid\TestZuoYe1\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="E:\MyAndroid\TestZuoYe1\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_294a9ed25f3083b6187506f9c93785eabd411810.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\MyAndroid\TestZuoYe1\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="E:\MyAndroid\TestZuoYe1\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.0.0_3ef905f1b8e5d98811b3611e2e849e9ff1a2f215.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\aaa\BaoZouRiBao\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="346f74d056553126d6f011c84c6f4f56407192de">
+        <dex dex="E:\aaa\BaoZouRiBao\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_5af7804e2e3aa904e44906cb06a61d30edb866ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\MyAndroid\TestZuoYe1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="E:\MyAndroid\TestZuoYe1\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.0_8cb31c54c7ac78a0e723ccebbae5e3696e15dd9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\aaa\BaoZouRiBao\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="E:\aaa\BaoZouRiBao\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.0_8cbb55667ab717cef8d5eceed9c0b67858ae59af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\MyAndroid\TestZuoYe1\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="E:\MyAndroid\TestZuoYe1\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.0_9e6357484cfacc9b60d9c505eb2eaae9021cf82d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\MyAndroid\TestZuoYe1\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="E:\MyAndroid\TestZuoYe1\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_8eb8748583c95768623e69245d32ec82788ccd70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\MyAndroid\TestZuoYe1\app\build\intermediates\exploded-aar\com.android.support\design\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="E:\MyAndroid\TestZuoYe1\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.0.0_4df81db83423e222742b75b64590a4588f705638.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\aaa\BaoZouRiBao\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="E:\aaa\BaoZouRiBao\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_60906618701fd1f7fc06282ed6ca9097ff5c3672.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\MyAndroid\TestZuoYe1\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="E:\MyAndroid\TestZuoYe1\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.0.0_20e07f8894363a2ae48d9ca1f6df0f32d95345a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\aaa\BaoZouRiBao\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="E:\aaa\BaoZouRiBao\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.0_e6d55dde512ca1103b8ab85b139d0314ee45cbad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\aaa\BaoZouRiBao\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="E:\aaa\BaoZouRiBao\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_84df4b7f8e6152a1a6eea032948361e1e54ab28e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\aaa\BaoZouRiBao\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="E:\aaa\BaoZouRiBao\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.0.0_d30507224d993a481b39cbee5583ceadfbfa6814.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\aaa\BaoZouRiBao\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="E:\aaa\BaoZouRiBao\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_bc86b4377f70206fdaa0e00b0d568ca14c953063.jar" />
+    </item>
+
+</items>
