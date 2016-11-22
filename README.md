@@ -26,8 +26,12 @@
 ![](http://i.imgur.com/emawTmc.gif)
 ![](http://i.imgur.com/ZPxrixM.png)
 ![](http://i.imgur.com/BdoW7Zw.png)
+
+
 * 
 ### 拾色器、NestedScrollView、CollapsingToolbarLayout效果 ###
+
+
 * 
 ![](http://i.imgur.com/T2D4xRT.gif)
 ![](http://i.imgur.com/8FYVyTk.png)![](http://i.imgur.com/GRqvWyY.png)
