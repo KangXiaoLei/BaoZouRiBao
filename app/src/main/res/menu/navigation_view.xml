@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/shouye"
+            android:icon="@mipmap/shouye"
+            android:title="首页"></item>
+        <item
+            android:id="@+id/paihangbang"
+            android:icon="@mipmap/paihangbang"
+            android:title="排行榜"></item>
+        <item
+            android:id="@+id/pindao"
+            android:icon="@mipmap/pindao"
+            android:title="频道"></item>
+        <item
+            android:id="@+id/sousuo"
+            android:icon="@mipmap/sousuo"
+            android:title="搜索"></item>
+        <item
+            android:id="@+id/shezhi"
+            android:icon="@mipmap/shezhi"
+            android:title="设置"></item>
+        <item
+            android:id="@+id/lixianxiazai"
+            android:icon="@mipmap/lixianxiazai"
+            android:title="离线下载"></item>
+        <item
+            android:id="@+id/yejianmoshi"
+            android:icon="@mipmap/yejianmoshi"
+            android:title="夜间模式"></item>
+
+    </group>
+
+
+</menu>

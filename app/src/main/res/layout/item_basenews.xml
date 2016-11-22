@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardUseCompatPadding="true"
+    app:cardPreventCornerOverlap="true"
+    app:cardCornerRadius="4dp"
+    app:cardElevation="3dp"
+    android:layout_height="match_parent">
+    <RelativeLayout
+        android:padding="2dp"
+        android:layout_width="match_parent"
+        android:layout_height="80dp">
+        <ImageView
+            android:id="@+id/iv"
+            android:layout_marginRight="10dp"
+            android:scaleType="centerCrop"
+            android:layout_centerVertical="true"
+            android:src="@drawable/jianbian"
+            android:layout_width="80dp"
+            android:layout_height="60dp" />
+        <TextView
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:id="@+id/titleTv"
+            android:layout_toRightOf="@id/iv"
+            android:text="qqqqqqqq"
+            android:singleLine="true"
+            android:textColor="#333"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:id="@+id/descTv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/iv"
+            android:lines="2"
+            android:layout_below="@id/titleTv"
+            android:layout_alignLeft="@id/titleTv"
+            android:layout_marginTop="8dp"
+            android:text="qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq"
+            android:textSize="14sp"
+            android:textColor="#666"
+            android:textStyle="bold" />
+
+
+    </RelativeLayout>
+
+</android.support.v7.widget.CardView>

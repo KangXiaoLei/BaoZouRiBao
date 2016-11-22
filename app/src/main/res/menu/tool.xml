@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <item
+        android:id="@+id/shuanxin"
+        android:title="刷新"></item>
+    <item
+        android:id="@+id/yejianmoshi"
+        android:title="夜间模式"></item>
+    <item
+        android:id="@+id/shezhi"
+        android:title="设置"></item>
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/biji"
+            android:icon="@mipmap/biji"
+            android:title="bbb"
+            app:showAsAction="ifRoom"></item>
+        <item
+            android:id="@+id/xiaoxi"
+            android:icon="@mipmap/xiaoxi"
+            android:title="aa"
+            app:showAsAction="ifRoom"></item>
+
+    </group>
+
+
+</menu>
